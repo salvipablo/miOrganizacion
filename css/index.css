@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Courier, monospace;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.mainTitle {
+  margin-bottom: 0.2em;
+  text-align: center;
+}
+
+.task {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0.2em;
+}
+
+.cntSchedule {
+  width: 50%;
+  display: flex;
+  justify-content: end;
+}
+
+/* OK */
+.cntDormir span, .cntDormir p {
+  background-color: rgb(165, 162, 157);
+}
+
+/* OK */
+.cntBañarse span, .cntBañarse p {
+  background-color: rgb(212, 47, 18);
+}
+
+/* OK */
+.cntCSemapi span, .cntCSemapi p {
+  background-color: rgb(233, 124, 236);
+}
+
+/* OK */
+.cntComer span, .cntComer p {
+  background-color: rgb(98, 162, 236);
+}
+
+/* OK */
+.cntCUTN span, .cntCUTN p {
+  background-color: rgb(233, 124, 236);
+}
+
+/* OK */
+.cntMerienda span, .cntMerienda p {
+  background-color: rgb(240, 156, 141);
+}
+
+/* OK */
+.cntCompras span, .cntCompras p {
+  background-color: rgb(131, 146, 182);
+}
+
+/* OK */
+.cntFutbol span, .cntFutbol p {
+  background-color: rgb(157, 233, 142);
+}
+
+/* OK */
+.cntCocinar span, .cntCocinar p {
+  background-color: rgb(240, 182, 95);
+}
+
+/* OK */
+.cntNodeJSAO span, .cntNodeJSAO p {
+  background-color: rgb(243, 242, 158);
+}
+
+/* OK */
+.cntJugar span, .cntJugar p {
+  background-color: rgb(115, 177, 120);
+}
+
+/* OK */
+.cntDesayuno span, .cntDesayuno p {
+  background-color: rgb(167, 206, 211);
+}
+
+/* OK */
+.cntQuinta span, .cntQuinta p {
+  background-color: rgb(85, 138, 109);
+}
+
+.cntDescription {
+  width: 50%;
+  display: flex;
+  justify-content: start;
+}
+
+.separator {
+  padding: 0 1em 0 1em;
+}
+
+.description {
+  padding-left: 1em;
+}

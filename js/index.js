@@ -15,7 +15,7 @@ function getContainerType(description) {
   if (description === 'Bañarse') containerType = 'cntBañarse';
   if (description === 'C# Semapi') containerType = 'cntCSemapi';
   if (description === 'Comer') containerType = 'cntComer';
-  if (description === 'C# UTN') containerType = 'cntCUTN';
+  if (description === 'C# Unity') containerType = 'cntUnity';
   if (description === 'Merienda') containerType = 'cntMerienda';
   if (description === 'Compras') containerType = 'cntCompras';
   if (description === 'Futbol') containerType = 'cntFutbol';

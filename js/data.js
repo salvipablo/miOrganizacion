@@ -13,17 +13,17 @@ const task = {
     { startTime: "10:00", finalHour: "11:00", description: "C# Semapi" },
     { startTime: "11:00", finalHour: "12:00", description: "C# Semapi" },
     { startTime: "12:00", finalHour: "13:00", description: "Comer" },
-    { startTime: "13:00", finalHour: "14:00", description: "C# UTN" },
-    { startTime: "14:00", finalHour: "15:00", description: "C# UTN" },
-    { startTime: "15:00", finalHour: "16:00", description: "C# UTN" },
-    { startTime: "16:00", finalHour: "17:00", description: "C# UTN" },
+    { startTime: "13:00", finalHour: "14:00", description: "C# Unity" },
+    { startTime: "14:00", finalHour: "15:00", description: "C# Unity" },
+    { startTime: "15:00", finalHour: "16:00", description: "C# Unity" },
+    { startTime: "16:00", finalHour: "17:00", description: "C# Unity" },
     { startTime: "17:00", finalHour: "18:00", description: "Merienda" },
     { startTime: "18:00", finalHour: "19:00", description: "Compras" },
     { startTime: "19:00", finalHour: "20:00", description: "Compras" },
     { startTime: "20:00", finalHour: "21:00", description: "Cocinar" },
     { startTime: "21:00", finalHour: "22:00", description: "Cocinar" },
     { startTime: "22:00", finalHour: "23:00", description: "Comer" },
-    { startTime: "23:00", finalHour: "00:00", description: "C# UTN" }
+    { startTime: "23:00", finalHour: "00:00", description: "C# Unity" }
   ],
   Martes: [
     { startTime: "00:00", finalHour: "01:00", description: "Dormir" },
@@ -39,8 +39,8 @@ const task = {
     { startTime: "10:00", finalHour: "11:00", description: "C# Semapi" },
     { startTime: "11:00", finalHour: "12:00", description: "C# Semapi" },
     { startTime: "12:00", finalHour: "13:00", description: "Comer" },
-    { startTime: "13:00", finalHour: "14:00", description: "C# UTN" },
-    { startTime: "14:00", finalHour: "15:00", description: "C# UTN" },
+    { startTime: "13:00", finalHour: "14:00", description: "C# Unity" },
+    { startTime: "14:00", finalHour: "15:00", description: "C# Unity" },
     { startTime: "15:00", finalHour: "16:00", description: "C# Semapi" },
     { startTime: "16:00", finalHour: "17:00", description: "C# Semapi" },
     { startTime: "17:00", finalHour: "18:00", description: "Merienda" },
@@ -49,7 +49,7 @@ const task = {
     { startTime: "20:00", finalHour: "21:00", description: "Futbol" },
     { startTime: "21:00", finalHour: "22:00", description: "Cocinar" },
     { startTime: "22:00", finalHour: "23:00", description: "Comer" },
-    { startTime: "23:00", finalHour: "00:00", description: "C# UTN" }
+    { startTime: "23:00", finalHour: "00:00", description: "C# Unity" }
   ],
   Miercoles: [
     { startTime: "00:00", finalHour: "01:00", description: "Dormir" },
@@ -65,10 +65,10 @@ const task = {
     { startTime: "10:00", finalHour: "11:00", description: "C# Semapi" },
     { startTime: "11:00", finalHour: "12:00", description: "C# Semapi" },
     { startTime: "12:00", finalHour: "13:00", description: "Comer" },
-    { startTime: "13:00", finalHour: "14:00", description: "C# UTN" },
-    { startTime: "14:00", finalHour: "15:00", description: "C# UTN" },
-    { startTime: "15:00", finalHour: "16:00", description: "C# UTN" },
-    { startTime: "16:00", finalHour: "17:00", description: "C# UTN" },
+    { startTime: "13:00", finalHour: "14:00", description: "C# Unity" },
+    { startTime: "14:00", finalHour: "15:00", description: "C# Unity" },
+    { startTime: "15:00", finalHour: "16:00", description: "C# Unity" },
+    { startTime: "16:00", finalHour: "17:00", description: "C# Unity" },
     { startTime: "17:00", finalHour: "18:00", description: "Merienda" },
     { startTime: "18:00", finalHour: "19:00", description: "Compras" },
     { startTime: "19:00", finalHour: "20:00", description: "Compras" },
@@ -119,8 +119,8 @@ const task = {
     { startTime: "12:00", finalHour: "13:00", description: "Comer" },
     { startTime: "13:00", finalHour: "14:00", description: "C# Semapi" },
     { startTime: "14:00", finalHour: "15:00", description: "C# Semapi" },
-    { startTime: "15:00", finalHour: "16:00", description: "C# UTN" },
-    { startTime: "16:00", finalHour: "17:00", description: "C# UTN" },
+    { startTime: "15:00", finalHour: "16:00", description: "C# Unity" },
+    { startTime: "16:00", finalHour: "17:00", description: "C# Unity" },
     { startTime: "17:00", finalHour: "18:00", description: "Merienda" },
     { startTime: "18:00", finalHour: "19:00", description: "Compras" },
     { startTime: "19:00", finalHour: "20:00", description: "Compras" },
@@ -178,7 +178,7 @@ const task = {
     { startTime: "19:00", finalHour: "20:00", description: "Futbol" },
     { startTime: "20:00", finalHour: "21:00", description: "Cocinar" },
     { startTime: "21:00", finalHour: "22:00", description: "Comer" },
-    { startTime: "22:00", finalHour: "23:00", description: "C# UTN" },
+    { startTime: "22:00", finalHour: "23:00", description: "C# Unity" },
     { startTime: "23:00", finalHour: "00:00", description: "NodeJSAO" }
   ]
 }
